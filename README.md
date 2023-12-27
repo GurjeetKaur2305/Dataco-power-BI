@@ -1,4 +1,4 @@
-# Dataco-power-BI
+# UNP-Project_BI-with-PowerBI_DataCo
 Completed this project as a part of BI with UNP POWER BI course
 Key Highlights
 1. Analysed the given dataco using DAX for accurate analysis and report.
